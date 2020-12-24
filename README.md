@@ -3,7 +3,7 @@ These are some of my helper functions I use in my daily work with R and Rstudio
 
 Business hours - set your weekly work hours
 
-Check 4 NaA's - different ways to check for NAs
+Check 4 Na's - different ways to check for NAs
 
 Data.table Replace NA- way to replace NA in a data.table
 
