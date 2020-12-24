@@ -1,4 +1,4 @@
-#My-helper-Functions
+# My-helper-Functions
 
 These are some of my helper functions I use in my daily work with R and Rstudio
 
